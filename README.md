@@ -15,7 +15,7 @@ O relatório foi construído sobre uma estrutura de grid para garantir equilíbr
 #### Tela 01: Relatório de Vendas (Volume)
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/2026-02-05-13-29-33.png" alt="" width="640">
+  <img src="000-Midia_e_Anexos/2026-02-05-13-29-33.png" alt="" width="1024">
 </p>
 
 Nesta primeira página, o grid foi dividido em quatro áreas principais:
@@ -29,7 +29,7 @@ Nesta primeira página, o grid foi dividido em quatro áreas principais:
 #### Tela 02: Relatório de Lucros (Rentabilidade)
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/2026-02-05-13-20-52.png" alt="" width="640">
+  <img src="000-Midia_e_Anexos/2026-02-05-13-20-52.png" alt="" width="1024">
 </p>
 
 A segunda tela foca na decomposição financeira. Seu grid organiza os visuais da seguinte forma:
@@ -50,7 +50,7 @@ Abaixo, descrevo a jornada de análise realizada através das interações reais
 Ao explorarmos a rentabilidade na Tela 02, utilizamos a Árvore Hierárquica para entender quais mercados trazem o melhor retorno financeiro para a empresa.
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/2026-02-05-13-21-22.png" alt="" width="640">
+  <img src="000-Midia_e_Anexos/2026-02-05-13-21-22.png" alt="" width="1024">
 </p>
 
 * **Ação:** Seleção do mercado francês na Árvore Hierárquica.
@@ -61,7 +61,7 @@ Ao explorarmos a rentabilidade na Tela 02, utilizamos a Árvore Hierárquica par
 O fluxo financeiro apresenta variações importantes ao longo do ano. Utilizamos o Gráfico de Cascata (Waterfall) para explicar esses saltos de performance.
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/2026-02-05-13-21-43.png" alt="" width="640">
+  <img src="000-Midia_e_Anexos/2026-02-05-13-21-43.png" alt="" width="1024">
 </p>
 
 * **Ação:** Seleção do 4º Trimestre (Q4) no gráfico de cascata.
@@ -72,7 +72,7 @@ O fluxo financeiro apresenta variações importantes ao longo do ano. Utilizamos
 Para validar a resiliência do modelo de negócio, isolamos o segmento de médias empresas para verificar sua estabilidade fora dos grandes contratos governamentais.
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/2026-02-05-13-22-03.png" alt="" width="640">
+  <img src="000-Midia_e_Anexos/2026-02-05-13-22-03.png" alt="" width="1024">
 </p>
 
 * **Ação:** Seleção do segmento Midmarket no Treemap.
