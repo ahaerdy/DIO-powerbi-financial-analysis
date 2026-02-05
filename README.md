@@ -50,7 +50,7 @@ Abaixo, descrevo a jornada de análise realizada através das interações reais
 Ao explorarmos a rentabilidade na Tela 02, utilizamos a Árvore Hierárquica para entender quais mercados trazem o melhor retorno financeiro para a empresa.
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/2026-02-05-13-37-51.png" alt="" width="1024">
+  <img src="000-Midia_e_Anexos/2026-02-05-13-40-29.png" alt="" width="1024">
 </p>
 
 * **Ação:** Seleção do mercado francês na Árvore Hierárquica.
