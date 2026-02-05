@@ -14,6 +14,10 @@ O relatório foi construído sobre uma estrutura de grid para garantir equilíbr
 
 #### Tela 01: Relatório de Vendas (Volume)
 
+<p align="center">
+  <img src="000-Midia_e_Anexos/2026-02-05-13-19-59.png" alt="" width="480">
+</p>
+
 Nesta primeira página, o grid foi dividido em quatro áreas principais:
 
 * **Cabeçalho e Menu Lateral:** Área reservada para o título do projeto e os botões de navegação, com imagens associadas para alternar entre páginas de forma intuitiva.
@@ -21,9 +25,12 @@ Nesta primeira página, o grid foi dividido em quatro áreas principais:
 * **Bloco Central de Tendência:** Gráficos de área e linha para visualização da evolução temporal das vendas.
 * **Bloco Inferior de Distribuição:** Mapas e gráficos de colunas para segmentação geográfica por país e por produto.
 
-> **[INSERIR TELA_01 AQUI]**
 
 #### Tela 02: Relatório de Lucros (Rentabilidade)
+
+<p align="center">
+  <img src="000-Midia_e_Anexos/2026-02-05-13-20-52.png" alt="" width="480">
+</p>
 
 A segunda tela foca na decomposição financeira. Seu grid organiza os visuais da seguinte forma:
 
@@ -34,7 +41,7 @@ A segunda tela foca na decomposição financeira. Seu grid organiza os visuais d
 
 ---
 
-## Storytelling e Insights (Princípio, Meio e Fim)
+## Storytelling e Insights
 
 Abaixo, descrevo a jornada de análise realizada através das interações reais capturadas no painel:
 
@@ -42,7 +49,9 @@ Abaixo, descrevo a jornada de análise realizada através das interações reais
 
 Ao explorarmos a rentabilidade na Tela 02, utilizamos a Árvore Hierárquica para entender quais mercados trazem o melhor retorno financeiro para a empresa.
 
-> **[INSERIR TELA_03 AQUI]**
+<p align="center">
+  <img src="000-Midia_e_Anexos/2026-02-05-13-21-22.png" alt="" width="480">
+</p>
 
 * **Ação:** Seleção do mercado francês na Árvore Hierárquica.
 * **Insight:** A França apresenta o maior lucro acumulado. Através da filtragem cruzada, o Gráfico de Radar revela que o sucesso francês não depende de um único item, mas de um mix equilibrado de produtos, com destaque de margem para o produto Paseo.
@@ -51,7 +60,9 @@ Ao explorarmos a rentabilidade na Tela 02, utilizamos a Árvore Hierárquica par
 
 O fluxo financeiro apresenta variações importantes ao longo do ano. Utilizamos o Gráfico de Cascata (Waterfall) para explicar esses saltos de performance.
 
-> **[INSERIR TELA_06 AQUI]**
+<p align="center">
+  <img src="000-Midia_e_Anexos/2026-02-05-13-21-43.png" alt="" width="480">
+</p>
 
 * **Ação:** Seleção do 4º Trimestre (Q4) no gráfico de cascata.
 * **Insight:** O Q4 é o motor de lucro da organização. O gráfico de cascata indica uma subida íngreme e o Treemap mostra que as vendas governamentais são agressivas neste período, sugerindo uma concentração de fechamento de contratos ao final do ano fiscal.
@@ -60,7 +71,9 @@ O fluxo financeiro apresenta variações importantes ao longo do ano. Utilizamos
 
 Para validar a resiliência do modelo de negócio, isolamos o segmento de médias empresas para verificar sua estabilidade fora dos grandes contratos governamentais.
 
-> **[INSERIR TELA_07 AQUI]**
+<p align="center">
+  <img src="000-Midia_e_Anexos/2026-02-05-13-22-03.png" alt="" width="480">
+</p>
 
 * **Ação:** Seleção do segmento Midmarket no Treemap.
 * **Insight:** Ao contrário do setor público, o Midmarket mostra grande estabilidade. O gráfico de radar mantém uma forma simétrica, provando que a empresa possui uma oferta madura e competitiva para o setor privado, operando de forma independente de sazonalidades extremas.
