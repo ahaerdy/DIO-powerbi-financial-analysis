@@ -15,7 +15,7 @@ O relatório foi construído sobre uma estrutura de grid para garantir equilíbr
 #### Tela 01: Relatório de Vendas (Volume)
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/2026-02-05-13-19-59.png" alt="" width="480">
+  <img src="000-Midia_e_Anexos/2026-02-05-13-29-33.png" alt="" width="480">
 </p>
 
 Nesta primeira página, o grid foi dividido em quatro áreas principais:
