@@ -50,11 +50,11 @@ Abaixo, descrevo a jornada de análise realizada através das interações reais
 Iniciamos a jornada entendendo de onde vem a receita bruta e como os produtos se comportam geograficamente.
 
 <p align="center">
-<img src="000-Midia_e_Anexos/2026-02-05-13-29-33.png" alt="" width="1024">
+  <img src="000-Midia_e_Anexos/2026-02-05-13-53-37.png" alt="" width="1024">
 </p>
 
 * **Dominância de Segmento:** O gráfico de rosca revela que o segmento **Government** é o principal motor de volume, sendo responsável por uma parcela significativa das unidades vendidas.
-* **Geografia das Vendas:** O mapa demonstra uma forte concentração de mercado na Europa e América do Norte. O **Canadá** e a **França** se destacam como os territórios de maior impacto no faturamento bruto.
+* **Geografia das Vendas:** O mapa demonstra uma forte concentração de mercado na Europa e América do Norte. O **Canadá** e a **França** se destacam como os territórios de maior impacto no faturamento bruto. Optou-se pela utilização do Visual de Mapa em detrimento de visuais de árvore (treemap) para esta página. Esta escolha permite uma análise geoestatística mais intuitiva, facilitando a identificação imediata de que a força de vendas está concentrada no eixo América do Norte - Europa.
 * **Performance de Produto:** O gráfico de colunas identifica o produto **Paseo** como o líder de vendas, superando os demais em volume total em quase todos os meses analisados.
 
 ### 2. O Ponto de Virada: Rentabilidade na França (Tela 02)
