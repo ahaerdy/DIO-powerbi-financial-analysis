@@ -1,6 +1,3 @@
-Esta versão consolida o seu excelente trabalho de estruturação de imagens e HTML com os insights detalhados do relatório de vendas, garantindo que o princípio da análise cubra todo o espectro do projeto (Vendas e Lucros).
-
----
 
 # Relatório Estratégico de Performance com Power BI
 
