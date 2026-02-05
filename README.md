@@ -1,7 +1,3 @@
-Aqui está a versão definitiva e estruturada do seu **README.md**, sem o uso de emojis, mantendo o tom profissional e o foco na análise técnica e de negócios solicitada.
-
----
-
 # Relatório Estratégico de Performance: Financial Data Analysis
 
 ## Introdução
