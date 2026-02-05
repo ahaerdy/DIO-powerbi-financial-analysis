@@ -1,3 +1,7 @@
+Esta versão consolida o seu excelente trabalho de estruturação de imagens e HTML com os insights detalhados do relatório de vendas, garantindo que o princípio da análise cubra todo o espectro do projeto (Vendas e Lucros).
+
+---
+
 # Relatório Estratégico de Performance com Power BI
 
 ## Introdução
@@ -15,7 +19,7 @@ O relatório foi construído sobre uma estrutura de grid para garantir equilíbr
 #### Tela 01: Relatório de Vendas (Volume)
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/2026-02-05-13-29-33.png" alt="" width="1024">
+<img src="000-Midia_e_Anexos/2026-02-05-13-29-33.png" alt="" width="1024">
 </p>
 
 Nesta primeira página, o grid foi dividido em quatro áreas principais:
@@ -25,11 +29,10 @@ Nesta primeira página, o grid foi dividido em quatro áreas principais:
 * **Bloco Central de Tendência:** Gráficos de área e linha para visualização da evolução temporal das vendas.
 * **Bloco Inferior de Distribuição:** Mapas e gráficos de colunas para segmentação geográfica por país e por produto.
 
-
 #### Tela 02: Relatório de Lucros (Rentabilidade)
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/2026-02-05-13-20-52.png" alt="" width="1024">
+<img src="000-Midia_e_Anexos/2026-02-05-13-20-52.png" alt="" width="1024">
 </p>
 
 A segunda tela foca na decomposição financeira. Seu grid organiza os visuais da seguinte forma:
@@ -45,34 +48,46 @@ A segunda tela foca na decomposição financeira. Seu grid organiza os visuais d
 
 Abaixo, descrevo a jornada de análise realizada através das interações reais capturadas no painel:
 
-### 1. O Ponto de Partida: Liderança na França
+### 1. Análise de Volume e Penetração de Mercado (Tela 01)
 
-Ao explorarmos a rentabilidade na Tela 02, utilizamos a Árvore Hierárquica para entender quais mercados trazem o melhor retorno financeiro para a empresa.
+Iniciamos a jornada entendendo de onde vem a receita bruta e como os produtos se comportam geograficamente.
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/2026-02-05-13-40-29.png" alt="" width="1024">
+<img src="000-Midia_e_Anexos/2026-02-05-13-29-33.png" alt="" width="1024">
+</p>
+
+* **Dominância de Segmento:** O gráfico de rosca revela que o segmento **Government** é o principal motor de volume, sendo responsável por uma parcela significativa das unidades vendidas.
+* **Geografia das Vendas:** O mapa demonstra uma forte concentração de mercado na Europa e América do Norte. O **Canadá** e a **França** se destacam como os territórios de maior impacto no faturamento bruto.
+* **Performance de Produto:** O gráfico de colunas identifica o produto **Paseo** como o líder de vendas, superando os demais em volume total em quase todos os meses analisados.
+
+### 2. O Ponto de Virada: Rentabilidade na França (Tela 02)
+
+Ao cruzarmos o volume de vendas com a rentabilidade real na Árvore Hierárquica, identificamos onde a empresa é mais eficiente.
+
+<p align="center">
+<img src="000-Midia_e_Anexos/2026-02-05-13-40-29.png" alt="" width="1024">
 </p>
 
 * **Ação:** Seleção do mercado francês na Árvore Hierárquica.
-* **Insight:** A França apresenta o maior lucro acumulado. Através da filtragem cruzada, o Gráfico de Radar revela que o sucesso francês não depende de um único item, mas de um mix equilibrado de produtos, com destaque de margem para o produto Paseo.
+* **Insight:** A França não apenas vende muito, mas apresenta o maior lucro acumulado. Através da filtragem cruzada, o Gráfico de Radar revela que o sucesso francês é sustentado por um mix de produtos equilibrado, reduzindo a dependência de um único item para manter as margens.
 
-### 2. O Coração da Análise: Sazonalidade Trimestral
+### 3. O Coração da Análise: Sazonalidade Trimestral
 
 O fluxo financeiro apresenta variações importantes ao longo do ano. Utilizamos o Gráfico de Cascata (Waterfall) para explicar esses saltos de performance.
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/2026-02-05-13-21-43.png" alt="" width="1024">
+<img src="000-Midia_e_Anexos/2026-02-05-13-21-43.png" alt="" width="1024">
 </p>
 
 * **Ação:** Seleção do 4º Trimestre (Q4) no gráfico de cascata.
 * **Insight:** O Q4 é o motor de lucro da organização. O gráfico de cascata indica uma subida íngreme e o Treemap mostra que as vendas governamentais são agressivas neste período, sugerindo uma concentração de fechamento de contratos ao final do ano fiscal.
 
-### 3. A Conclusão: Análise de Nicho no Segmento Midmarket
+### 4. A Conclusão: Análise de Nicho no Segmento Midmarket
 
 Para validar a resiliência do modelo de negócio, isolamos o segmento de médias empresas para verificar sua estabilidade fora dos grandes contratos governamentais.
 
 <p align="center">
-  <img src="000-Midia_e_Anexos/2026-02-05-13-22-03.png" alt="" width="1024">
+<img src="000-Midia_e_Anexos/2026-02-05-13-22-03.png" alt="" width="1024">
 </p>
 
 * **Ação:** Seleção do segmento Midmarket no Treemap.
@@ -90,9 +105,8 @@ Para atender plenamente ao desafio proposto, foram implementados os seguintes re
 
 ## Conclusão
 
-Este projeto demonstra a capacidade de unir o rigor técnico (configuração de botões, grids e DAX) com a análise crítica de negócios. O resultado final é um dashboard interativo que transforma dados brutos do Financial Sample em decisões estratégicas fundamentadas.
+Este projeto demonstra a capacidade de unir o rigor técnico (configuração de botões, grids e DAX) com a análise crítica de negócios. O resultado final é um dashboard interativo que transforma dados brutos do Financial Sample em decisões estratégicas fundamentadas, cobrindo desde o volume bruto de vendas até a análise de rentabilidade detalhada.
 
 ---
 
-*Relatório desenvolvido como entrega do desafio de projeto para o Bootcamp NTT DATA - Engenharia de Dados com Pythonda DIO.*
-
+*Relatório desenvolvido como entrega do desafio de projeto para o Bootcamp NTT DATA - Engenharia de Dados com Python da DIO.*
