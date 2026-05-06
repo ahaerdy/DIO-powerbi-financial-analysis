@@ -104,6 +104,6 @@ Para atender plenamente ao desafio proposto, foram implementados os seguintes re
 
 Este projeto demonstra a capacidade de unir o rigor técnico (configuração de botões, grids e DAX) com a análise crítica de negócios. O resultado final é um dashboard interativo que transforma dados brutos do Financial Sample em decisões estratégicas fundamentadas, cobrindo desde o volume bruto de vendas até a análise de rentabilidade detalhada.
 
----
+## Referências
 
-*Relatório desenvolvido como entrega do desafio de projeto para o Bootcamp NTT DATA - Engenharia de Dados com Python da DIO.*
+- [Repositório de Estudos – Bootcamp NTT DATA - Engenharia de Dados com Python](https://github.com/ahaerdy/DIO-learning/tree/main/NTT%20DATA-Engenharia%20de%20Dados%20com%20Python#-reposit%C3%B3rio-de-estudos--bootcamp-ntt-data-engenharia-de-dados-com-python)
